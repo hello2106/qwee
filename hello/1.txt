@@ -1,0 +1,7 @@
+TIME COMPLEXCITY
+
+How fast an algorithm is
+
+described as number of operations w.r.t.input size(n)
+
+3 notation: big-O,big-OMEGA,big-THETA 
